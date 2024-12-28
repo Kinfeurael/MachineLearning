@@ -59,7 +59,7 @@ Diabetes is a chronic disease that can lead to severe complications, such as car
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/diabetes-prediction.git
+   git clone https://github.com/Kinfeurael/MachineLearning.git
    cd diabetes-prediction
    ```
 
